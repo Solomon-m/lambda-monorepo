@@ -14,10 +14,10 @@ Create a `filters.yml` file and put it in `.github/worklows` : `.github/worklows
 
 The structure of the file should be :
 ```
-LambdaFunction1:
-  - 'LambdaFunction1/**/*'
-LambdaFunction2:
-  - 'LambdaFunction2/**/*'
+lambda-gh-action:
+  - 'lambda-gh-action/**/*'
+lambda-gh-helper:
+  - 'lambda-gh-helper/**/*'
 ```
 
 ## Example

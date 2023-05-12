@@ -3,7 +3,7 @@ const shelljs = require('shelljs');
 const run = require('./index.js');
 
 const inputs = {
-  'lambda-functions': '{"LambdaFunction1": "true", "LambdaFunction2": "false"}',
+  'lambda-functions': '{"lambda-gh-action": "true", "lambda-gh-helper": "false"}',
   'zip-params': '*.js *.json node_modules/',
   'alias-name': 'prod',
   'layer-name': '',

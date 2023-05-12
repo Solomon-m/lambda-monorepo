@@ -1,5 +1,5 @@
 {
-  "name": "lambdafunction2",
+  "name": "lambda-gh-helper",
   "version": "1.0.0",
   "description": "An other Lambda function template.",
   "main": "index.js"

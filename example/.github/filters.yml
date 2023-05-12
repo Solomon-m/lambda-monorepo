@@ -1,4 +1,4 @@
-LambdaFunction1:
-  - 'LambdaFunction1/**/*'
-LambdaFunction2:
-  - 'LambdaFunction2/**/*'
+lambda-gh-action:
+  - 'lambda-gh-helper/**/*'
+lambda-gh-helper:
+  - 'lambda-gh-helper/**/*'

@@ -1,5 +1,5 @@
 exports.handler = async () => {
-  console.log('Hello World 1');
+  console.log('lambda-gh-helper');
   return {
     statusCode: 200,
   };
